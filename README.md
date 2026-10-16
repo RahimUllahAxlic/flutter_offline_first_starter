@@ -75,8 +75,8 @@ flutter_offline_first_starter/
 ## 🚀 Quick Start & Reproducible Conflict Walkthrough
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/flutter-offline-first-starter.git
-cd flutter-offline-first-starter
+git clone https://github.com/RahimUllahAxlic/flutter_offline_first_starter.git
+cd flutter_offline_first_starter
 flutter pub get
 dart run build_runner build --delete-conflicting-outputs
 flutter run
